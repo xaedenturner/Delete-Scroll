@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Delete Scroll</string>
+    <string name="accessibility_service_label">Reels Blocker</string>
+    <string name="accessibility_service_description">Detects when Instagram Reels are open and blocks them so you can stay focused.</string>
+</resources>
